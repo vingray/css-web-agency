@@ -14,34 +14,30 @@ h1 {
   font-size: 5rem;
 }
 
-.creative{
+footer {
+  text-align: right;
   color: midnightblue;
 }
 
-.tile-image{
+.tile-image {
   height: 200px;
   float: left;
   margin-right: 50px;
 }
 
-.card{
-  width: 50%;
+.card {
+  width: 45%;
 }
 
-.left{
-  display: inline;
+.left {
   float: left;
 }
 
-.right{
-  display: inline;
+.right {
   float: right;
 }
 
-
-
-footer {
-  text-align: right;
+.creative {
   color: midnightblue;
 }
 
